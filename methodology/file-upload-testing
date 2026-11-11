@@ -1,0 +1,8 @@
+Insecure file upload occurs when an application accepts file without adequate validation of their filetype, content, size or storage.
+navigate to file upload
+Identify the upload form.
+Prepare a harmless text file.
+Upload the file.
+Capture the HTTP POST request in Burp Proxy.
+send it to repeater 
+get the vulnerability
