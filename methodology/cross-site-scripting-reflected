@@ -1,0 +1,18 @@
+XSS is a vulnerability that allows an attacker to inject malicious client-cripts into web pages
+In XSS reflected the payloads live inside the URL or the HTTP request while in stored it lives permanently in the application's database
+Navigate to the XSS reflected 
+input the java script code <script>alert('XSS ATTACK!')</script>
+submit the input
+send the rquest to the repeater
+Examine how the input appears and the response
+i observed to see XSS ATTACK
+
+navigate to the XSS stored
+i filled in normal data 
+then input the java script code <script>alert('XSS ATTACK!')</script>
+submit the input
+send the rquest to the repeater
+Examine how the input appears and the response
+i observed to see XSS ATTACK
+
+
