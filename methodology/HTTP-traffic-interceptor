@@ -1,0 +1,4 @@
+Turn the burp suite interceptor on
+log in into DVWA 
+HTTP request will then be sent to burp
+Forward the requests
