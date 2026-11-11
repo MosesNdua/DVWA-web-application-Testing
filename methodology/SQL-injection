@@ -1,0 +1,8 @@
+SQL-injection is a web security vulnerability that allows an attacker to interefere with the database querries.It occurs when untrusted user input is directly inserted into the databased without proper parameterization.
+navigate to SQL injection 
+type 'OR'1'='1
+submit the input 
+capture the request with burp proxy
+send the request to repeater
+identify the input 
+then send to check the vulnerability
