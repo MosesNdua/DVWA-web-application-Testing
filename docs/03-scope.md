@@ -5,4 +5,4 @@ session management testing.
 Cross-Site Scripting testing(reflected and stored)
 Command injection testing
 file upload testing
-HTTP security header analysis
+Brute force attack
