@@ -1,0 +1,4 @@
+Start Burp Suite Community Edition by running burpsuite command in the terminal
+Confirm the proxy listener is active
+Configure firefox to use 127.0.0.1 and port 8080
+download the burp suite certs
