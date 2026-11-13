@@ -7,12 +7,6 @@ send the rquest to the repeater
 Examine how the input appears and the response
 i observed to see XSS ATTACK
 
-navigate to the XSS stored
-i filled in normal data 
-then input the java script code <script>alert('XSS ATTACK!')</script>
-submit the input
-send the rquest to the repeater
-Examine how the input appears and the response
-i observed to see XSS ATTACK
+
 
 
