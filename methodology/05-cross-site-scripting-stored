@@ -1,4 +1,4 @@
-in XSS stored it lives permanently in the application's database
+in XSS stored the payloads live permanently in the application's database
 navigate to the XSS stored
 i filled in normal data 
 then input the java script code <script>alert('XSS ATTACK!')</script>
